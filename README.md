@@ -1,6 +1,7 @@
 ### Hi there 👋
-- 🔭 I’m currently working on SURVIVORS
-- 🌱 I’m currently learning JavaScript
+- 🔭 I’m currently working on [SURVIVORS](http://www.womensurvivors.com)
+- 🌱 I’m currently learning JavaScript and React
+
 <!--
 **josejulio28/josejulio28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
