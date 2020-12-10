@@ -1,5 +1,4 @@
 ### Hi there 👋
-<h3 align="center">Just graduated from the Le Wagon Web Development bootcamp</h3>
 
 - 🔭 I’m currently working on [Survivors](wwww.womensurvivors.net)
 
